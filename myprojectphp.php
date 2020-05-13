@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <?php
-            pridsfxtcgbhnt "Hello World!";
+echo "My first PHP script!";
 ?>
+
+</body>
+</html> 
