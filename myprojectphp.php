@@ -1,6 +1,6 @@
 <?php
-print "hello world!"
-print "my name is devwrat!!"
-print "I am in my last year of engineering.."
-print " Thank you everyone :) "
+print "hello world!<br>";
+print "my name is devwrat!!<br>";
+print "I am in my last year of engineering..<br>";
+print " Thank you everyone :) ..<br>we all will meet soon...<br>";
 ?>
