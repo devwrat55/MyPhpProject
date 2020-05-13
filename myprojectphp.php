@@ -1,3 +1,3 @@
 <?php
-            print "<p>Hello World!</p>";
+            print "Hello World!";
 ?>
