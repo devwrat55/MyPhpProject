@@ -1,4 +1,10 @@
-<?php
-print "Hello World!<br>";
-print "Thank You for watching...<br>";
-?>
+<html>
+    <head>
+    <title>My first PHP Website</title>
+    </head>
+    <body>
+        <?php
+            echo "<p>Hello World!</p>";
+        ?>
+    </body>
+</html>
