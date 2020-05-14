@@ -1,4 +1,4 @@
 
 <?php
-            print 'Hello World!\nI am Devwrat';
+            print 'Hello World!<br>I am Devwrat';
 ?>
