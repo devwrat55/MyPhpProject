@@ -1,3 +1,3 @@
 <?php
-            printttt 'Hello World!<br>I am Devwrat<br>I am from Nashik, Maharashtra, India.';
+            print 'Hello World!<br>I am Devwrat<br>I am from Nashik, Maharashtra, India.';
 ?>
